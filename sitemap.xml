@@ -62,6 +62,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/sprinkles/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/icing/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/cookie-decorating/
         </loc>
     </url>
