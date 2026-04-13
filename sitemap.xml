@@ -12,6 +12,21 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/kit-3-icing/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/kit-4-sandwich/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/kit-5-powdered-sugar/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
@@ -27,7 +42,27 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/products/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/powdered-icing-sugar/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/vanilla-ice-cream/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/chocolate-chips/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/cookie-decorating/
         </loc>
     </url>
     <url>
