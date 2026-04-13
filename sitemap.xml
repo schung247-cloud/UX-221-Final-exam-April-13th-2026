@@ -2,12 +2,12 @@
 <urlset>
     <url>
         <loc>
-            http://localhost:8000/hello-world/
+            http://localhost:8000/kit-1-sprinkles/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/kit-1-sprinkles/
+            http://localhost:8000/kit-2-chocolate-chips/
         </loc>
     </url>
     <url>
@@ -17,7 +17,12 @@
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/make-a-kit/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/kits/
         </loc>
     </url>
     <url>
